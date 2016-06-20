@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "74663A7B7EBA3A103285C19BBCA2617A8B951745",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "641FD5DEDEB94195E97C4944DB777CF40D6E2963" : 0,
+    "74663A7B7EBA3A103285C19BBCA2617A8B951745" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9EC330E8-D210-4A6E-B1BF-3FE2CD7D48C7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "641FD5DEDEB94195E97C4944DB777CF40D6E2963" : "OOP-Cards-Model-ios-0616\/",
+    "74663A7B7EBA3A103285C19BBCA2617A8B951745" : "objc-BlackJack-ios-0616\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BlackJack",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BlackJack.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JohnPH75\/OOP-Cards-Model-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "641FD5DEDEB94195E97C4944DB777CF40D6E2963"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JohnPH75\/objc-BlackJack-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "74663A7B7EBA3A103285C19BBCA2617A8B951745"
+    }
+  ]
+}
